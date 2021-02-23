@@ -1,0 +1,31 @@
+Teoria
+
+
+API - Aplication Program Interface
+
+
+Cliente -HTML , CSS
+
+Servidor - BD, autenticação, envio de e-mail
+
+
+Node.js
+
+
+Foi utilizado para poder rodar JS no lado do servidor, e ele consegue fazer IO assíncrono, que significa entrada(Input) e saida(Output) de dados de maneira assíncrona.
+
+e essa parada funciona de uma maneira que faz basicamente com que as requisições não bloqueiem as próximas requisições.
+
+
+
+TypeScript
+
+É um superset de JavaScript ou seja ele tem varias novas funcionalidades e coisas que deixam o JavaScript ainda mais poderoso.
+
+Basicamente alé dos tipos o TypeScript auxilia no desenvolvimento porque as editores de código forçam você a utilizar o tipo de dado correto.
+
+
+
+Instalamos o Express que é um micro-framework que serve para poder fazermos a parte de rotas e middleware do projeto, ajuda a criar um servidor local, além de facilitar e permitir o trabalho com web-sockets
+
+Ins0mn1a@21!
