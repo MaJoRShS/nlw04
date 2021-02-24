@@ -1,6 +1,8 @@
 Teoria
 
 
+Dia 01
+
 API - Aplication Program Interface
 
 
@@ -28,4 +30,34 @@ Basicamente alé dos tipos o TypeScript auxilia no desenvolvimento porque as edi
 
 Instalamos o Express que é um micro-framework que serve para poder fazermos a parte de rotas e middleware do projeto, ajuda a criar um servidor local, além de facilitar e permitir o trabalho com web-sockets
 
+Senha do Insomnia
 Ins0mn1a@21!
+
+
+#rumoaoproximonivel
+
+
+Dia 02
+
+Aqui ela ta mostrando como podemos fazer as conexões com o banco de dados e alguns tipos de formas de poder fazer a mesma coisa.
+
+uma das formas é o drive nativo de cada banco de dados, e ai tem que ver nada documentação de cada drive como é feita as operações com banco de dados.
+
+tem o tal do Knex.js que basicamente permite que você acesse qualquer banco de dados e ele converte as operações para cada tipo de banco de dados para você mais de vez em quando tu ainda vai precisar fazer as querys na mão, esse cara só facilita que ele permite que tu se conecte com qualquer banco de dados e escreva a sua query do mesmo jeito para qualquer um dos banco de dados.
+
+
+e tem o tal do typeORM - geralmente ORM (Object-relational mapping) são facilitadores de mapeamento de objeto relacional de banco de dados, ou seja tu vai ter um objeto que vai ser a representação de uma tabela do banco de dados e ai fica bem mais tranquilo de se trabalhar com os dados.
+
+
+Migration
+
+
+Basicamente uma migration é como se fosse uma versão do banco de dados que eu to agora, ou seja todas as alterações que eu fizer no meu banco de dados e tudo que eu mexer nas tabelas vão ficar nessas migration's e ai quando eu subir isso ai para PRD ele vai rodar todas as migrations para o banco de dados e deixar tudo equalizado, tanto dev quando prd vão conter a mesma estrutura de tabelas.
+
+
+Acabamos de complicar a porra toda, estamos trabalhando com JS como se fosse java mesmo, 100% tipado, porém, bem menos verboso igual java, ta começando a ficar "legal".
+
+criamos até um "repository" que nada mais é do que um entity manager, que serve para que eu consiga trabalhar com os dados de uma maneira mais tranquila, ele tem inúmeras vantagens comparados com fazer tudo na mão, claro que é sempre recomendável saber usar ambas as formas.
+
+
+#jornadainfinita
