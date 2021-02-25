@@ -61,3 +61,40 @@ criamos até um "repository" que nada mais é do que um entity manager, que serv
 
 
 #jornadainfinita
+
+
+Dia 03
+
+
+Aqui estamos separando as responsabilidades de cada coisa e criamos uma repository para a classe "users".
+
+aqui ela usa basicamente um padrão de projeto igual ao JAVA, logo fica tudo muito longo e complicado
+mais ta ficando legal, talvez assim eu consiga me familiarizar ainda melhor com java. =D
+
+Testes automatizados
+
+Testes unitários ( backend )
+
+aqui testamos apenas unidades, ou parte de programa, funções básicas, ou apenas uma única funcionalidade
+
+
+Teste de Integração ( backend )
+
+teste de uma funcionalidade completa, do começo ao fim, ou seja temos que ver se quando começamos a fazer algo aquela funcionalidade está funcionando como deveria, do começo ao fim do fluxo de negócio.
+
+
+Teste ponta a ponta ( frontend )
+
+Testa toda a ação de um usuário na aplicação, passo a passo do que o cara vai fazer
+
+
+utilizaremos o "Jest"
+
+Variaveis de ambiente
+
+Podemos utilizar variveis de ambiente para facilitar de alguma forma no desenvolvimento, aqui no caso ela ta utilizando a variavel de ambeinte para poder setar o banco de dados correto quando formos rodar os testes mesmo em produção para não corrermos perigo.
+
+
+
+#focopraticagrupo
+
