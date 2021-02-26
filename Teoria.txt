@@ -98,3 +98,10 @@ Podemos utilizar variveis de ambiente para facilitar de alguma forma no desenvol
 
 #focopraticagrupo
 
+
+
+DIA 04
+
+Envio de E-mail
+
+Aqui ficou muito complexo, muito detalhezinho que ferrou de mais na compreensão e até na execução das paradas, mais vamo que vamo, ainda não termieni o dia , parei no "1:03:21"
