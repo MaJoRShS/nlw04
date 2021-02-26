@@ -105,3 +105,10 @@ DIA 04
 Envio de E-mail
 
 Aqui ficou muito complexo, muito detalhezinho que ferrou de mais na compreensão e até na execução das paradas, mais vamo que vamo, ainda não termieni o dia , parei no "1:03:21"
+
+
+Voltamos
+
+Aqui fizemos o envio de e-mail, além disso temos varias formas de relacionar as tabelas dentro do banco de dados, e ainda tem bastante coisa que foi feita, muita parada de modelos ou pradrões de projetos, topzinho.]
+
+#neverstoplearning
