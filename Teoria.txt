@@ -112,3 +112,17 @@ Voltamos
 Aqui fizemos o envio de e-mail, além disso temos varias formas de relacionar as tabelas dentro do banco de dados, e ainda tem bastante coisa que foi feita, muita parada de modelos ou pradrões de projetos, topzinho.]
 
 #neverstoplearning
+
+
+DIA 05
+
+
+Route Params = São os parâmetros que compõem uma rota, eles vem na url
+
+Query Params = São os itens que sempre vem depois da "?" na URL e sempre são compostos por chave = valor
+
+Basicamente é real a mina ta com o padrão java na mente, e por isso utilizamos a parada com o desing patters de java, claro que tem a quela pincelada de JS mais é bem igual as paradas do JAVA.
+
+mais em fim , topper.
+
+#missioncomplete
